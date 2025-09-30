@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="pub-identifier">
+  <metadata>
+    <dc:identifier id="pub-identifier">_simple_book</dc:identifier>
+    <meta id="meta-identifier" property="dcterms:identifier">_simple_book</meta>
+    <dc:title id="pub-title">Nineteen Eighty-Four</dc:title>
+    <meta property="dcterms:title" id="meta-title">Nineteen Eighty-Four</meta>
+    <dc:language id="pub-language">en</dc:language>
+    <meta property="dcterms:language" id="meta-language">en</meta>
+    <meta property="dcterms:modified">2014-05-25T12:37:17Z</meta>
+    <!--The preceding date value is actually local time (not UTC) in UTC format because there is no function in XSLT 1.0 to generate a correct UTC time-->
+    <meta content="cover-image" name="cover"/>
+    <meta id="meta-creator2" property="dcterms:creator">George Orwell</meta>
+    <dc:creator id="pub-creator2">George Orwell</dc:creator>
+    <meta property="dcterms:date">2014-05-25</meta>
+    <dc:date>2014-05-25</dc:date>
+    <meta property="dcterms:publisher">epubBooks Classics</meta>
+    <dc:publisher>epubBooks Classics</dc:publisher>
+    <meta property="dcterms:rights">Copyright © 2014 epubBooks</meta>
+    <dc:rights>Copyright © 2014 epubBooks</dc:rights>
+    <meta property="dcterms:rightsHolder">epubBooks</meta>
+    <meta property="dcterms:subject">Science Fiction</meta>
+    <dc:subject>Science Fiction</dc:subject>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="bk01-toc.xhtml"/>
+    <item media-type="text/css" id="html-css" href="epubbooks.css"/>
+    <item media-type="text/css" id="docbook-css" href="docbook-epub.css"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" properties="cover-image" href="bookcover-generated.jpg" media-type="image/jpeg"/>
+    <item id="id-idp140465135256432" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465203172544" href="ch01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465203167504" href="ch01s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465203385536" href="ch01s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465200870528" href="ch01s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465200911568" href="ch01s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465203342768" href="ch01s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465200983248" href="ch01s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465156059232" href="ch01s07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465157820928" href="ch01s08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167600800" href="ch02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167598048" href="ch02s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465203110432" href="ch02s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465166669888" href="ch02s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167008608" href="ch02s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167178480" href="ch02s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167501472" href="ch02s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167514272" href="ch02s07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167531296" href="ch02s08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465167580256" href="ch02s09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465132373360" href="ch03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465132116544" href="ch03s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465142251824" href="ch03s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465165517424" href="ch03s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465165613072" href="ch03s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465142254672" href="ch03s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465141946544" href="ch03s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140465141414784" href="ch04.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="htmltoc" linear="yes"/>
+    <itemref idref="id-idp140465135256432"/>
+    <itemref idref="id-idp140465203172544"/>
+    <itemref idref="id-idp140465203167504"/>
+    <itemref idref="id-idp140465203385536"/>
+    <itemref idref="id-idp140465200870528"/>
+    <itemref idref="id-idp140465200911568"/>
+    <itemref idref="id-idp140465203342768"/>
+    <itemref idref="id-idp140465200983248"/>
+    <itemref idref="id-idp140465156059232"/>
+    <itemref idref="id-idp140465157820928"/>
+    <itemref idref="id-idp140465167600800"/>
+    <itemref idref="id-idp140465167598048"/>
+    <itemref idref="id-idp140465203110432"/>
+    <itemref idref="id-idp140465166669888"/>
+    <itemref idref="id-idp140465167008608"/>
+    <itemref idref="id-idp140465167178480"/>
+    <itemref idref="id-idp140465167501472"/>
+    <itemref idref="id-idp140465167514272"/>
+    <itemref idref="id-idp140465167531296"/>
+    <itemref idref="id-idp140465167580256"/>
+    <itemref idref="id-idp140465132373360"/>
+    <itemref idref="id-idp140465132116544"/>
+    <itemref idref="id-idp140465142251824"/>
+    <itemref idref="id-idp140465165517424"/>
+    <itemref idref="id-idp140465165613072"/>
+    <itemref idref="id-idp140465142254672"/>
+    <itemref idref="id-idp140465141946544"/>
+    <itemref idref="id-idp140465141414784"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Cover"/>
+    <reference href="bk01-toc.xhtml" type="toc" title="Table of Contents"/>
+  </guide>
+</package>
